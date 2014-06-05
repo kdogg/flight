@@ -1,1 +1,1 @@
-/home/ken/WTS/wtswiki/d.ts/flight.d.ts
+../../d.ts/flight.d.ts
